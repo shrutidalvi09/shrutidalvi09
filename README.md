@@ -23,5 +23,5 @@
 </p>
 
 <p align="center">
-  <b><i>🌟 Keep Learning • Keep Building • Keep Growing</i></b>
+  <b><i>🌟 Keep Learning • Keep Building • Keep Growing 🌟</i></b>
 </p>
