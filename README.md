@@ -22,8 +22,6 @@ Aspiring Cloud & DevOps Engineer
 
 - 🐧 Linux Enthusiast
 
-- 🔐 Interested in **Cloud Security & Cybersecurity**
-
 - 🌱 Exploring **AWS DevOps**, **Terraform**, and **Kubernetes**
 
 - 📫 **Email:** **shrutidalvi229@gmail.com**
