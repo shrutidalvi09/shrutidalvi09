@@ -8,23 +8,34 @@
 
 <h3>💻 About Me</h3>
 
-<ul>
-  <li>👋 Hi, I'm <b>Shruti Chetan Dalvi</b></li>
-  <li>☁️ Aspiring <b>Cloud & DevOps Engineer</b></li>
-  <li>🚀 Building <b>Cloud-Native Applications</b> on AWS</li>
-  <li>🐳 Currently learning <b>Docker, Kubernetes & Terraform</b></li>
-  <li>⚙️ Passionate about <b>CI/CD Automation</b></li>
-  <li>🐧 Linux Enthusiast</li>
-  <li>🌱 Exploring <b>AWS DevOps, Terraform, and Kubernetes</b></li>
-  <li>📫 <b>Email:</b> shrutidalvi229@gmail.com</li>
-</ul>
+<table>
+<tr>
+<td width="50%">
+
+- ☁️ **Aspiring Cloud & DevOps Engineer**
+- 🚀 Building **Cloud-Native Applications**
+- 🐳 Learning **Docker, Kubernetes & Terraform**
+- ⚙️ Passionate about **CI/CD Automation**
+
+</td>
+
+<td width="50%">
+
+- 🐧 Linux Enthusiast
+- 🌱 Exploring **AWS DevOps**
+- 📚 Always learning new cloud technologies
+- 📫 **shrutidalvi229@gmail.com**
+
+</td>
+</tr>
+</table>
 
 <h3>🛠️ Languages & Tools</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,git,github,githubactions,jenkins,nginx,python,java,mysql,postgres,react,html,css,js,vscode,postman&theme=dark"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,git,github,githubactions,jenkins,nginx,python,java,mysql,postgres,react,html,css,js,vscode,postman&theme=dark"/>
 </p>
 
 <p align="center">
-  <b>🌟 Keep Learning • Keep Building • Keep Growing</b>
+<b>🌟 Keep Learning • Keep Building • Keep Growing</b>
 </p>
