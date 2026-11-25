@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F4,100:FDBA74&height=230&section=header&text=Shruti%20Dalvi&fontSize=64&fontColor=292524&fontAlignY=38&desc=React%20Developer%20%E2%80%A2%20Aspiring%20Cloud%20%26%20DevOps%20Engineer&descSize=20&descColor=EA580C&descAlignY=60&animation=fadeIn" />
 </p>
-
+<p align="center">
+  <img src="assets/banner-v8.png" alt="Shruti Dalvi banner" width="100%">
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=EA580C&center=true&vCenter=true&width=650&lines=AWS+%7C+Linux+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Building+things+with+code%2C+cloud+%26+AI;From+localhost+to+production+%F0%9F%9A%80;Passionate+about+Cloud+%26+DevOps" />
 </p>
