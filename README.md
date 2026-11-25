@@ -36,29 +36,6 @@ $ contact --email
 
 ---
 
-## 🧰 My Toolbox
-
-<p align="center">
-  <b>☁️ Cloud & DevOps</b><br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins,nginx&theme=dark" />
-</p>
-
-<p align="center">
-  <b>💻 Languages, Systems & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,python,java,js,react,html,css,mysql,postgres,vscode,postman&theme=dark" />
-</p>
-
----
-
-## 🗺️ My Cloud Journey
-
-```text
- Linux ──► AWS ──► Docker ──► Kubernetes ──► Terraform ──► CI/CD
-   ✅       ✅        🔄          🔜             🔜          🔜
-```
-
----
-
 <p align="center">
   <b><i>🌟 Keep Learning • Keep Building • Keep Growing 🌟</i></b>
 </p>
